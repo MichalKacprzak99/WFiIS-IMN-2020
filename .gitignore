@@ -1,0 +1,8 @@
+*.tar.gz
+
+*.exe
+*.o
+
+.idea/
+
+__pycache__/
